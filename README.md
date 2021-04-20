@@ -35,9 +35,10 @@ https://guarded-reaches-27987.herokuapp.com/
 * Path
 * Morgan
 * Compression
-* Lite-server
+* Lite-Server
 * Heroku
 * Node.js
+* Model-View-Controller Application Design
 
 ## Where users can get help with your project
 
